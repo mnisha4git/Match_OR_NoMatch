@@ -1,5 +1,5 @@
 # Match_OR_NoMatch
-![Prediction](ADDL/crystal_ball_palm.jpeg)
+![Prediction](ADDL/crystal_ball_palm.jpg)
 
 Price Prediction for Airbnb listings
 
