@@ -1,0 +1,10 @@
+﻿id,id,host_listings_count,host_response_rate,host_acceptance_rate,accommodates,bedrooms,bathrooms,beds,price,security_deposit,cleaning_fee,minimum_nights,maximum_nights,number_of_reviews,neighbourhood_cleansed,latitude,longitude,predicted_price_uni,predicted_price_multi
+7087327,7087327,26,92%,91%,4,1,1,2,$160.00 ,$100.00 ,$115.00 ,1,1125,0,"Capitol Hill, Lincoln Park",38.89004639,-77.0028081,201,183
+975833,975833,1,90%,100%,6,3,3,3,$350.00 ,,$100.00 ,2,30,65,"Capitol Hill, Lincoln Park",38.88041282,-76.99048487,456,412
+8249488,8249488,2,90%,100%,1,1,2,1,$50.00 ,,,2,1125,1,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",38.95529092,-76.98600574,115,102
+8409022,8409022,1,100%,,2,1,1,1,$95.00 ,,,1,1125,0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",38.87213388,-77.01963879,97,71
+8411173,8411173,1,92%,67%,4,1,1,1,$50.00 ,$450.00 ,$15.00 ,7,1125,0,"Colonial Village, Shepherd Park, North Portal Estates",38.99638163,-77.04154101,115,102
+8634774,8634774,1,100%,100%,4,2,1,4,$99.00 ,,,1,1125,0,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",38.86248633,-77.01506201,115,102
+8498095,8498095,1,100%,,4,2,2,2,$100.00 ,$150.00 ,$50.00 ,3,1125,0,"Takoma, Brightwood, Manor Park",38.97473766,-77.02707576,115,102
+8513660,8513660,1,100%,,2,1,1,1,$100.00 ,,,1,1125,0,"Woodridge, Fort Lincoln, Gateway",38.94148563,-76.96848475,109,101
+8298145,8298145,8,94%,99%,2,1,1.5,1,$38.00 ,,,2,180,1,"Capitol View, Marshall Heights, Benning Heights",38.88010496,-76.91903054,79,43

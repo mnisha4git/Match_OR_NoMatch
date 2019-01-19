@@ -1,0 +1,11 @@
+,id,host_listings_count,host_response_rate,host_acceptance_rate,accommodates,bedrooms,bathrooms,beds,price,security_deposit,cleaning_fee,minimum_nights,maximum_nights,number_of_reviews,neighbourhood_cleansed,latitude,longitude,predicted_price
+2792,5614895,1,20%,75%,2,0,1,1,$120.00 ,,,1,1125,8,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",38.92218702,-77.03247523,113.60
+2793,3757962,2,100%,25%,3,2,2,1,$140.00 ,$150.00 ,$75.00 ,2,1125,7,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",38.93168071,-77.04473933,191.00
+2794,1510726,1,,,4,2,1,1,$299.00 ,,,2,1125,5,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",38.93376482,-77.03148847,134.60
+2795,7744854,1,100%,100%,3,1,1,1,$85.00 ,$250.00 ,$30.00 ,1,92,2,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",38.92569165,-77.03261582,191.00
+2796,2092403,1,100%,100%,6,2,2,3,$175.00 ,$850.00 ,$65.00 ,1,1125,62,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",38.92757219,-77.03360355,175.00
+2797,8424836,6,100%,100%,6,2,1,2,$165.00 ,$200.00 ,$135.00 ,3,30,0,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",38.93138339,-77.03048859,175.00
+2798,2215303,1,94%,89%,4,1,1,2,$54.00 ,,$9.00 ,1,1125,53,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",38.92798283,-77.03090577,134.60
+2799,6300619,2,100%,100%,2,1,1,1,$49.00 ,,$29.00 ,2,30,23,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",38.92507767,-77.02643638,113.60
+2800,4129767,1,100%,100%,4,1,1,2,$129.00 ,,$30.00 ,2,7,16,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",38.92321477,-77.03617386,134.60
+2801,1123343,2,67%,0%,3,1,1,1,$110.00 ,$150.00 ,$40.00 ,3,365,34,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",38.93149645,-77.04089492,191.00
