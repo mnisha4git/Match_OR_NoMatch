@@ -1,4 +1,6 @@
 # Match_OR_NoMatch
+![Prediction](ADDL/crystal_ball_palm.jpeg)
+
 Price Prediction for Airbnb listings
 
 This project predicts the price for a listing on an online marketplace. The online marketplace of choice is Airbnb.
