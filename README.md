@@ -20,3 +20,6 @@ The K-nearest neighbors (knn) algorithm compares our listing to similar listings
 Similarity metric that's used in this case is Euclidean distance
 d=√(q1−p1)2+(q2−p2)2+⋯+(qn−pn)2d=(q1−p1)2+(q2−p2)2+⋯+(qn−pn)2
 where q1q1 to qnqn represent the feature values for one observation and p1p1 to pnpn represent the feature values for the other observation.
+
+Visualization Tableau Public
+https://public.tableau.com/profile/mehrun.nisha1428#!/vizhome/MLModelComparisonDashboard/KNearestNeighborMLModel?publish=yes
